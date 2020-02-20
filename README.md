@@ -1,1 +1,1 @@
-# Theory-of-Automata
+# theory-of-automata
